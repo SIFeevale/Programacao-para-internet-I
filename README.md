@@ -6,11 +6,11 @@ A disciplina tem como objetivo trazer a OOP, utilizando a linguagem PHP como a b
 
 Sugestão para organização das features:
 
-*Aluno1 (feature) <br />
-	*Exercicio1 (pasta) <br />
-	*Exercicio3 (pasta) <br />
+- Aluno1 (feature) 
+	- Exercicio1 (pasta) 
+	- Exercicio3 (pasta) 
 
-*Aluno2 (feature) <br />
-	*Exercicio1 (pasta) <br />
-	*Exercicio2 (pasta) <br />
+- Aluno2 (feature) 
+	- Exercicio1 (pasta) 
+	- Exercicio2 (pasta) 
 
